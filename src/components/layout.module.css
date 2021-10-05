@@ -7,9 +7,17 @@
 .nav-links {
 	display: flex;
 	list-style: none;
-	padding-left: 10rem;
+	padding-left: 0rem;
 }
 
 .nav-link-item {
 	padding-right: 2rem;
 }
+
+.site-title {
+	font-size: 3rem;
+	color: gray;
+	font-weight: 700;
+	margin: 3rem 0;
+}
+
