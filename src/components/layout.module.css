@@ -1,0 +1,15 @@
+.container {
+	margin: auto;
+	max-width: 500px;
+	font-family: sans-serif;
+}
+
+.nav-links {
+	display: flex;
+	list-style: none;
+	padding-left: 10rem;
+}
+
+.nav-link-item {
+	padding-right: 2rem;
+}
